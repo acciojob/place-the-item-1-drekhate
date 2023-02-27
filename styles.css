@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+.div_1 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+.div_2 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.div_3 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+div {
+    font-size: 40px;
+}
