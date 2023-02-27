@@ -15,9 +15,11 @@
     height: 100px;
     background-color: blue;
 }
+.holder {
+	flex-wrap: wrap;
+}
 .container {
     display: flex;
     justify-content: space-between;
-	flex-wrap: wrap;
 	font-size: 50px;
 }
