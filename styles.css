@@ -19,7 +19,5 @@
     display: flex;
     justify-content: space-between;
 	flex-wrap: wrap;
-}
-div {
-    font-size: 40px;
+	font-size: 50px;
 }
